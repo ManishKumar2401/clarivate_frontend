@@ -1,3 +1,9 @@
+## Compile dist files
+
+To compile the dist files you need Node.js/npm, clone/download the repo then:
+
+npm install (install npm deps)
+
 ## Available Scripts
 
 In the project directory, you can run:
