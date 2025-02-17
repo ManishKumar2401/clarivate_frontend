@@ -17,4 +17,4 @@ You may also see any lint errors in the console.
 
 ## UPDATE API BASE URL
 
-fine apiservice.js file and udpate "API_BASE_URL" value to custom backend route url
+find apiservice.js file and udpate "API_BASE_URL" value to custom backend route url
